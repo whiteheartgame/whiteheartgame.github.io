@@ -5,7 +5,7 @@ permalink: /truck-tower/privacy/
 
 # Truck Tower — Gizlilik Politikası
 
-*Son güncelleme: 31 Ekim 2026*
+*Son güncelleme: 17 Kasım 2026*
 
 Bu politika, Truck Tower mobil oyununun ("Oyun") hangi bilgileri nasıl kullandığını açıklar.
 
@@ -25,7 +25,8 @@ Adınızı, e-posta adresinizi, telefon numaranızı ya da kişisel iletişim bi
 - Google AdMob (Google LLC ve bağlı şirketleri) — https://policies.google.com/privacy
 
 ## Seçenekleriniz
-- **Türkiye:** Oyun ilk açıldığında kişiselleştirilmiş reklam için izniniz sorulur. İzin vermezseniz oyun aynen oynanır, reklamlar kişiselleştirilmez. Seçiminizi istediğiniz zaman **Ayarlar → Reklam tercihi** bölümünden değiştirebilirsiniz.
+- **Türkiye (Android):** Oyun ilk açıldığında kişiselleştirilmiş reklam için izniniz sorulur. İzin vermezseniz oyun aynen oynanır, reklamlar kişiselleştirilmez. Seçiminizi istediğiniz zaman **Ayarlar → Reklam tercihi** bölümünden değiştirebilirsiniz.
+- **iPhone (bütün ülkeler):** Oyun ilk açıldığında kısa bir bilgi ekranından sonra Apple'ın **izleme izni** penceresi gösterilir; buradaki seçiminiz kişiselleştirilmiş reklam iznidir. İzin vermezseniz oyun aynen oynanır, reklamlar kişiselleştirilmez. Seçiminizi **iPhone Ayarları → Truck Tower → İzleme** bölümünden (oyunda **Ayarlar → Reklam tercihi** sizi oraya götürür) değiştirebilirsiniz.
 - **Avrupa Ekonomik Alanı, Birleşik Krallık ve İsviçre:** reklam kişiselleştirmesi için Google'ın izin formu gösterilir. Seçiminizi **Ayarlar → Gizlilik seçenekleri** bölümünden değiştirebilirsiniz.
 - Cihazınızın ayarlarından reklam kimliğinizi sıfırlayabilir ya da silebilirsiniz (Android: Ayarlar → Google → Reklamlar).
 - Oyunu cihazınızdan kaldırdığınızda cihazdaki bütün oyun verileri silinir.
@@ -46,7 +47,7 @@ Oyun ilerlemesi ve ayarlar yalnızca cihazınızda tutulur, bize gönderilmez. B
 **İşleme amaçları ve hukuki sebepler:**
 | Amaç | Hukuki sebep |
 |---|---|
-| Kişiselleştirilmiş reklam (ilgi alanlarınıza göre seçilen reklam) | Açık rızanız (KVKK m.5/1): oyunun ilk açılışındaki izin penceresinde "İzin ver" seçeneği |
+| Kişiselleştirilmiş reklam (ilgi alanlarınıza göre seçilen reklam) | Açık rızanız (KVKK m.5/1): oyunun ilk açılışındaki izin penceresinde (iPhone'da Apple'ın izleme izni penceresinde) "İzin ver" seçeneği |
 | Oyunu ücretsiz sunabilmek için kişiselleştirilmemiş reklam göstermek, reklamların gösterildiğini ölçmek, sahte tıklamaları önlemek | Meşru menfaat (KVKK m.5/2-f) |
 
 İzin vermezseniz reklamlar kişiselleştirilmez, yalnızca oyunun içeriğine göre seçilir; oyunun hiçbir bölümü izninize bağlı değildir.
@@ -56,7 +57,7 @@ Oyun ilerlemesi ve ayarlar yalnızca cihazınızda tutulur, bize gönderilmez. B
 - Kişiselleştirilmiş reklam için yapılan aktarım, izin penceresinde verdiğiniz açık rızaya dayanır (KVKK m.9/6-a).
 - **Muhtemel riskler:** Bu ülkelerde kişisel verilerin korunması Türkiye'dekiyle aynı düzeyde olmayabilir; verilerinize yabancı mevzuat uygulanabilir ve haklarınızı kullanmanız güçleşebilir.
 
-**İzin kaydı:** İzin penceresindeki seçiminiz, seçim tarihi ve gördüğünüz metnin kimliği yalnızca cihazınızda saklanır.
+**İzin kaydı:** Android'de izin penceresindeki seçiminiz, seçim tarihi ve gördüğünüz metnin kimliği yalnızca cihazınızda saklanır; iPhone'da seçiminizi Apple'ın sistemi saklar.
 
 **Saklama süresi:**
 - Cihazdaki oyun verileri, oyunu kaldırdığınızda silinir.
@@ -91,7 +92,7 @@ Sorularınız için: **whiteheartgame@gmail.com**
 
 # Truck Tower — Privacy Policy (English)
 
-*Last updated: 31 October 2026*
+*Last updated: 17 November 2026*
 
 This policy explains what information the Truck Tower mobile game ("the Game") uses and how.
 
@@ -111,7 +112,8 @@ We do not collect your name, email address, phone number or other contact detail
 - Google AdMob (Google LLC and its affiliates) — https://policies.google.com/privacy
 
 ## Your choices
-- **Türkiye:** the first time you open the Game, you are asked for consent to personalized ads. If you decline, the Game works exactly the same and ads are not personalized. You can change your choice at any time under **Settings → Ad choice**.
+- **Türkiye (Android):** the first time you open the Game, you are asked for consent to personalized ads. If you decline, the Game works exactly the same and ads are not personalized. You can change your choice at any time under **Settings → Ad choice**.
+- **iPhone (all countries):** the first time you open the Game, a short information screen is followed by Apple's **tracking permission** prompt; your answer there is your consent to personalized ads. If you decline, the Game works exactly the same and ads are not personalized. You can change it under **iPhone Settings → Truck Tower → Tracking** (the Game's **Settings → Ad choice** takes you there).
 - **European Economic Area, United Kingdom and Switzerland:** Google's consent form is shown for ad personalization. You can change your choice under **Settings → Privacy options**.
 - You can reset or delete your advertising ID in your device settings (Android: Settings → Google → Ads).
 - Uninstalling the Game deletes all game data stored on your device.
@@ -132,7 +134,7 @@ Game progress and settings stay on your device and are never sent to us. This da
 **Purposes and legal bases:**
 | Purpose | Legal basis |
 |---|---|
-| Personalized ads (ads chosen based on your interests) | Your explicit consent (KVKK art. 5/1): "Allow" in the consent window shown when you first open the Game |
+| Personalized ads (ads chosen based on your interests) | Your explicit consent (KVKK art. 5/1): "Allow" in the consent window shown when you first open the Game (on iPhone, Apple's tracking permission prompt) |
 | Showing non-personalized ads so the Game can be free, measuring ad delivery, preventing invalid clicks | Legitimate interest (KVKK art. 5/2-f) |
 
 If you decline, ads are not personalized and are chosen only from the Game's content; no part of the Game depends on your consent.
@@ -142,7 +144,7 @@ If you decline, ads are not personalized and are chosen only from the Game's con
 - Transfers for personalized ads are based on the explicit consent you give in the consent window (KVKK art. 9/6-a).
 - **Possible risks:** these countries may not protect personal data to the same level as Türkiye; foreign laws may apply to your data and it may be harder to exercise your rights.
 
-**Consent record:** your choice in the consent window, its date and an identifier of the text you saw are stored only on your device.
+**Consent record:** on Android, your choice in the consent window, its date and an identifier of the text you saw are stored only on your device; on iPhone, Apple's system stores your choice.
 
 **Retention:**
 - Game data on your device is deleted when you uninstall the Game.
